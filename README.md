@@ -1,10 +1,10 @@
-# Muhammad Adeel
+# KwizeraJanvier
 Senior Frontend Engineer based out of Berlin working at [Dizrbo GmbH](https://dizrbogmbh.com).
 
 ---
 
 ### Hi there 👋
-I am Muhammad Adeel, a *Senior Frontend Engineer* based out of Berlin working at *Dizrbo GmbH. Having around **10 years of experience in full-stack web development*, but since 2021, I’m professionally working as a Frontend Engineer. To see my profile in detail, I recommend looking at my [LinkedIn](https://linkedin.com), [Medium](https://medium.com), or [Stack Overflow](https://stackoverflow.com) profiles.
+I am  Kwizera Janvier, a *Mathematician* based out of Berlin working at *Dizrbo GmbH. Having around **10 years of experience in full-stack web development*, but since 2021, I’m professionally working as a Frontend Engineer. To see my profile in detail, I recommend looking at my [LinkedIn](https://linkedin.com), [Medium](https://medium.com), or [Stack Overflow](https://stackoverflow.com) profiles.
 
 ---
 
@@ -49,7 +49,7 @@ I am Muhammad Adeel, a *Senior Frontend Engineer* based out of Berlin working at
 ---
 
 ### Stats
-#### Muhammad Adeel’s GitHub Stats:
+####  Kwizera Janvier’s GitHub Stats:
 - *Total Stars Earned*: 5  
 - *Total Commits*: 334  
 - *Total PRs*: 0  
